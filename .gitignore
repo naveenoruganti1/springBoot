@@ -6,4 +6,4 @@
 target
 /Servers/
 .gradle
-/gradle/
+gradle
