@@ -5,3 +5,5 @@
 .springBeans
 target
 /Servers/
+.gradle
+/gradle/
